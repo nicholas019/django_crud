@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'corsheaders', # 보안을 위해 설치한 corsheaders app에 추가
     'health_check',
     'users',
+    'product',
 ]
 
 # 프로젝트에서 추가한 app들을 추가한후에 여기에 꼭 입력해줘야한다.
